@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<firmwareManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="public/res/ias_firmware_manifest_schema.xsd">
-  <name>JLR-NGI V850 ISC Firmware update</name>
-  <version>0.1</version>
-  <description>Performs the V850 ISC update through the /var/firmware/FlashV850-ISC.sh</description>
-  <installCommand>/opt/jlr/bin/FlashV850-ISC.sh</installCommand>
-</firmwareManifest>
